@@ -1,9 +1,9 @@
 <p align='center'>
   <a href='#'>
-     <img src='https://user-images.githubusercontent.com/40064946/175161744-417aa969-faeb-4e83-ba29-9685914d5b59.svg' width='20%'/>
+     <img src='https://user-images.githubusercontent.com/40064946/175352250-06071d85-405a-4e23-a063-dbf3073656c6.svg' width='20%'/>
   </a>
 </p>
-  
+
 ## Appetite
 
 <!--![Appetite_Logo]()
